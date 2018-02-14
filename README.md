@@ -1,0 +1,2 @@
+# mvp_gmail_automatic_header_generation
+新規メールに、本文の宛先を自動的に記入してくれます。
